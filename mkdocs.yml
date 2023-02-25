@@ -1,0 +1,13 @@
+site_name: Pustaka Jasmani
+nav:
+  - Halaman Utama: index.md
+  - Pedoman Pembangun: pembangun.md
+  - Pedoman Pengguna: pengguna.md
+theme: 
+  font:
+    text: Roboto Flex
+  name: material
+  palette: 
+    primary: white
+extra_css:
+  - stylesheets/extra.css
